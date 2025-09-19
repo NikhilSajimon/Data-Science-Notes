@@ -53,7 +53,7 @@ ELT is a modern data integration approach where raw data is **extracted** and **
 
 ---
 
-## 🛠 Apache Airflow: Workflow Orchestration
+##  Apache Airflow: Workflow Orchestration
 
 ###  Definition
 Apache Airflow is an open-source platform for **authoring, scheduling, and monitoring workflows**. It’s widely used to orchestrate ETL and ELT pipelines across diverse tools and environments.
