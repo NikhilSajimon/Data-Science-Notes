@@ -1,5 +1,5 @@
 
-# Matplotlib & Seaborn: Complete Visualization Reference
+# Matplotlib & Seaborn
 
 
 Matplotlib is a foundational plotting library in Python. It offers granular control over every aspect of a plot — from axes and ticks to colors and annotations.
