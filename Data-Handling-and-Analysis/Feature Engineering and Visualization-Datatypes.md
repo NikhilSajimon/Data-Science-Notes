@@ -229,7 +229,7 @@ sns.histplot(
 )
 ```
 
-###  Cheatsheet of All Parameters
+###  Cheatsheet
 
 | Argument        | Description                                                                 | Example               |
 |-----------------|-----------------------------------------------------------------------------|------------------------|
