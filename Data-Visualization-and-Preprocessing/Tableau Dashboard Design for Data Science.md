@@ -1,5 +1,5 @@
 
-#  Tableau Dashboard Design for Data Science
+#  Tableau Dashboard Design for Data Science.
 
 ---
 
